@@ -1,0 +1,239 @@
+Hull Upgrades III
+Hull Upgrades IV
+Hull Upgrades V
+Mechanics III
+Mechanics IV
+Mechanics V
+EM Armor Compensation I
+EM Armor Compensation II
+EM Armor Compensation III
+EM Armor Compensation IV
+Explosive Armor Compensation I
+Explosive Armor Compensation II
+Explosive Armor Compensation III
+Explosive Armor Compensation IV
+Kinetic Armor Compensation I
+Kinetic Armor Compensation II
+Kinetic Armor Compensation III
+Kinetic Armor Compensation IV
+Thermal Armor Compensation I
+Thermal Armor Compensation II
+Thermal Armor Compensation III
+Thermal Armor Compensation IV
+Weapon Upgrades III
+Weapon Upgrades IV
+Advanced Weapon Upgrades I
+Advanced Weapon Upgrades II
+Advanced Weapon Upgrades III
+Advanced Weapon Upgrades IV
+Advanced Weapon Upgrades V
+Capacitor Emission Systems I
+Capacitor Emission Systems II
+Capacitor Emission Systems III
+Capacitor Emission Systems IV
+Capacitor Emission Systems V
+Capacitor Management IV
+Capacitor Management V
+Capacitor Systems Operation IV
+Capacitor Systems Operation V
+CPU Management V
+Energy Pulse Weapons I
+Energy Pulse Weapons II
+Energy Pulse Weapons III
+Energy Pulse Weapons IV
+Energy Pulse Weapons V
+Nanite Operation I
+Nanite Operation II
+Nanite Operation III
+Nanite Interfacing I
+Nanite Interfacing II
+Nanite Interfacing III
+Power Grid Management V
+Thermodynamics II
+Thermodynamics III
+Thermodynamics IV
+Thermodynamics V
+Weapon Upgrades V
+Motion Prediction III
+Motion Prediction IV
+Motion Prediction V
+Gunnery V
+Small Projectile Turret I
+Small Projectile Turret II
+Small Projectile Turret III
+Medium Projectile Turret I
+Medium Projectile Turret II
+Medium Projectile Turret III
+Large Projectile Turret I
+Large Projectile Turret II
+Large Projectile Turret III
+Large Projectile Turret IV
+Large Projectile Turret V
+Capital Projectile Turret I
+Capital Projectile Turret II
+Capital Projectile Turret III
+Capital Projectile Turret IV
+Capital Projectile Turret V
+Capital Autocannon Specialization I
+Capital Autocannon Specialization II
+Capital Autocannon Specialization III
+Rapid Firing IV
+Rapid Firing V
+Sharpshooter IV
+Sharpshooter V
+Surgical Strike II
+Surgical Strike III
+Surgical Strike IV
+Surgical Strike V
+Trajectory Analysis II
+Trajectory Analysis III
+Trajectory Analysis IV
+Trajectory Analysis V
+Acceleration Control II
+Acceleration Control III
+Acceleration Control IV
+Acceleration Control V
+Afterburner IV
+Afterburner V
+Cynosural Field Theory I
+Cynosural Field Theory II
+Cynosural Field Theory III
+Cynosural Field Theory IV
+Evasive Maneuvering II
+Evasive Maneuvering III
+Evasive Maneuvering IV
+Evasive Maneuvering V
+Fuel Conservation I
+Fuel Conservation II
+Fuel Conservation III
+Fuel Conservation IV
+High Speed Maneuvering II
+High Speed Maneuvering III
+High Speed Maneuvering IV
+High Speed Maneuvering V
+Navigation IV
+Navigation V
+Warp Drive Operation II
+Warp Drive Operation III
+Warp Drive Operation IV
+Warp Drive Operation V
+Science V
+Astrometrics IV
+Astrometrics V
+Jump Drive Operation I
+Jump Drive Operation II
+Jump Drive Operation III
+Jump Drive Operation IV
+Jump Drive Operation V
+Jump Portal Generation I
+Jump Portal Generation II
+Jump Portal Generation III
+Jump Portal Generation IV
+Jump Fuel Conservation I
+Jump Fuel Conservation II
+Jump Fuel Conservation III
+Jump Fuel Conservation IV
+Jump Drive Calibration I
+Jump Drive Calibration II
+Jump Drive Calibration III
+Jump Drive Calibration IV
+Jump Drive Calibration V
+Biology I
+Biology II
+Biology III
+Biology IV
+Biology V
+Cybernetics II
+Cybernetics III
+Cybernetics IV
+Cybernetics V
+Infomorph Psychology I
+Infomorph Psychology II
+Infomorph Psychology III
+Jury Rigging I
+Jury Rigging II
+Jury Rigging III
+Astronautics Rigging I
+Astronautics Rigging II
+Astronautics Rigging III
+Astronautics Rigging IV
+Shield Operation IV
+EM Shield Compensation I
+EM Shield Compensation II
+EM Shield Compensation III
+EM Shield Compensation IV
+Explosive Shield Compensation I
+Explosive Shield Compensation II
+Explosive Shield Compensation III
+Explosive Shield Compensation IV
+Kinetic Shield Compensation I
+Kinetic Shield Compensation II
+Kinetic Shield Compensation III
+Kinetic Shield Compensation IV
+Shield Operation V
+Shield Upgrades III
+Shield Upgrades IV
+Shield Upgrades V
+Tactical Shield Manipulation III
+Tactical Shield Manipulation IV
+Thermal Shield Compensation I
+Thermal Shield Compensation II
+Thermal Shield Compensation III
+Thermal Shield Compensation IV
+Target Management III
+Target Management IV
+Target Management V
+Advanced Target Management I
+Advanced Target Management II
+Advanced Target Management III
+Advanced Target Management IV
+Ladar Sensor Compensation I
+Ladar Sensor Compensation II
+Ladar Sensor Compensation III
+Ladar Sensor Compensation IV
+Ladar Sensor Compensation V
+Long Range Targeting II
+Long Range Targeting III
+Long Range Targeting IV
+Long Range Targeting V
+Signature Analysis II
+Signature Analysis III
+Signature Analysis IV
+Signature Analysis V
+Spaceship Command IV
+Spaceship Command V
+Advanced Spaceship Command I
+Advanced Spaceship Command II
+Advanced Spaceship Command III
+Advanced Spaceship Command IV
+Advanced Spaceship Command V
+Capital Ships I
+Capital Ships II
+Capital Ships III
+Capital Ships IV
+Capital Ships V
+Minmatar Frigate I
+Minmatar Frigate II
+Minmatar Frigate III
+Minmatar Destroyer I
+Minmatar Destroyer II
+Minmatar Destroyer III
+Minmatar Cruiser I
+Minmatar Cruiser II
+Minmatar Cruiser III
+Minmatar Battlecruiser I
+Minmatar Battlecruiser II
+Minmatar Battlecruiser III
+Minmatar Battleship I
+Minmatar Battleship II
+Minmatar Battleship III
+Leadership I
+Leadership II
+Leadership III
+Leadership IV
+Leadership V
+Minmatar Titan I
+Minmatar Titan II
+Minmatar Titan III
+Minmatar Titan IV
+Minmatar Titan V
