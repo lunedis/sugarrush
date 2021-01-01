@@ -1,0 +1,292 @@
+Leadership I
+Leadership II
+Leadership III
+Leadership IV
+Leadership V
+Infomorph Psychology I
+Infomorph Psychology II
+Infomorph Psychology III
+Infomorph Psychology IV
+Infomorph Synchronizing I
+Infomorph Synchronizing II
+Infomorph Synchronizing III
+Infomorph Synchronizing IV
+Cybernetics II
+Astrometrics IV
+Astrometrics V
+Science V
+Navigation IV
+Navigation V
+Warp Drive Operation II
+Warp Drive Operation III
+Warp Drive Operation IV
+Warp Drive Operation V
+Jump Drive Operation I
+Jump Drive Operation II
+Jump Drive Operation III
+Jump Drive Operation IV
+Jump Drive Operation V
+Jump Portal Generation I
+Jump Portal Generation II
+Jump Portal Generation III
+Jump Portal Generation IV
+Jump Drive Calibration I
+Jump Drive Calibration II
+Jump Drive Calibration III
+Jump Drive Calibration IV
+Jump Drive Calibration V
+Jump Fuel Conservation I
+Jump Fuel Conservation II
+Jump Fuel Conservation III
+Jump Fuel Conservation IV
+Cybernetics III
+Cybernetics IV
+Cybernetics V
+Mechanics III
+Armor Layering I
+Armor Layering II
+Armor Layering III
+Armor Layering IV
+Hull Upgrades III
+Hull Upgrades IV
+EM Armor Compensation I
+EM Armor Compensation II
+EM Armor Compensation III
+EM Armor Compensation IV
+EM Armor Compensation V
+Explosive Armor Compensation I
+Explosive Armor Compensation II
+Explosive Armor Compensation III
+Explosive Armor Compensation IV
+Explosive Armor Compensation V
+Kinetic Armor Compensation I
+Kinetic Armor Compensation II
+Kinetic Armor Compensation III
+Kinetic Armor Compensation IV
+Kinetic Armor Compensation V
+Thermal Armor Compensation I
+Thermal Armor Compensation II
+Thermal Armor Compensation III
+Thermal Armor Compensation IV
+Thermal Armor Compensation V
+Mechanics IV
+Mechanics V
+Hull Upgrades V
+Cloaking I
+Cloaking II
+Cloaking III
+Cloaking IV
+Capacitor Emission Systems I
+Capacitor Emission Systems II
+Capacitor Emission Systems III
+Capacitor Emission Systems IV
+Capacitor Emission Systems V
+Capacitor Management IV
+Capacitor Management V
+Capacitor Systems Operation IV
+Capacitor Systems Operation V
+Power Grid Management V
+CPU Management V
+Cynosural Field Theory I
+Cynosural Field Theory II
+Cynosural Field Theory III
+Cynosural Field Theory IV
+Energy Pulse Weapons I
+Energy Pulse Weapons II
+Energy Pulse Weapons III
+Energy Pulse Weapons IV
+Energy Pulse Weapons V
+Thermodynamics II
+Thermodynamics III
+Thermodynamics IV
+Thermodynamics V
+Nanite Operation I
+Nanite Operation II
+Nanite Operation III
+Nanite Interfacing I
+Nanite Interfacing II
+Nanite Interfacing III
+Nanite Interfacing IV
+Nanite Operation IV
+Resistance Phasing I
+Acceleration Control II
+Acceleration Control III
+Acceleration Control IV
+Acceleration Control V
+Afterburner IV
+Afterburner V
+Evasive Maneuvering II
+Evasive Maneuvering III
+Evasive Maneuvering IV
+Evasive Maneuvering V
+Fuel Conservation I
+Fuel Conservation II
+Fuel Conservation III
+Fuel Conservation IV
+Fuel Conservation V
+High Speed Maneuvering II
+High Speed Maneuvering III
+High Speed Maneuvering IV
+High Speed Maneuvering V
+Resistance Phasing II
+Resistance Phasing III
+Resistance Phasing IV
+Jury Rigging I
+Jury Rigging II
+Jury Rigging III
+Armor Rigging I
+Armor Rigging II
+Armor Rigging III
+Armor Rigging IV
+Shield Management III
+Shield Management IV
+Shield Management V
+Shield Operation IV
+Shield Operation V
+Shield Upgrades III
+Shield Upgrades IV
+Tactical Shield Manipulation III
+Tactical Shield Manipulation IV
+Thermal Shield Compensation I
+Thermal Shield Compensation II
+Thermal Shield Compensation III
+Thermal Shield Compensation IV
+Kinetic Shield Compensation I
+Kinetic Shield Compensation II
+Kinetic Shield Compensation III
+Kinetic Shield Compensation IV
+Explosive Shield Compensation I
+Explosive Shield Compensation II
+Explosive Shield Compensation III
+Explosive Shield Compensation IV
+EM Shield Compensation I
+EM Shield Compensation II
+EM Shield Compensation III
+EM Shield Compensation IV
+Target Management III
+Target Management IV
+Target Management V
+Advanced Target Management I
+Advanced Target Management II
+Advanced Target Management III
+Advanced Target Management IV
+Radar Sensor Compensation I
+Radar Sensor Compensation II
+Radar Sensor Compensation III
+Radar Sensor Compensation IV
+Radar Sensor Compensation V
+Signature Analysis II
+Signature Analysis III
+Signature Analysis IV
+Signature Analysis V
+Long Range Targeting II
+Long Range Targeting III
+Long Range Targeting IV
+Long Range Targeting V
+Target Painting I
+Target Painting II
+Target Painting III
+Target Painting IV
+Signature Focusing I
+Signature Focusing II
+Signature Focusing III
+Signature Focusing IV
+Electronic Warfare II
+Electronic Warfare III
+Electronic Warfare IV
+Frequency Modulation I
+Frequency Modulation II
+Frequency Modulation III
+Frequency Modulation IV
+Long Distance Jamming I
+Long Distance Jamming II
+Long Distance Jamming III
+Long Distance Jamming IV
+Controlled Bursts III
+Controlled Bursts IV
+Controlled Bursts V
+Motion Prediction III
+Motion Prediction IV
+Motion Prediction V
+Gunnery V
+Small Energy Turret I
+Small Energy Turret II
+Small Energy Turret III
+Medium Energy Turret I
+Medium Energy Turret II
+Medium Energy Turret III
+Large Energy Turret I
+Large Energy Turret II
+Large Energy Turret III
+Large Energy Turret IV
+Large Energy Turret V
+Capital Energy Turret I
+Capital Energy Turret II
+Capital Energy Turret III
+Capital Energy Turret IV
+Capital Energy Turret V
+Capital Pulse Laser Specialization I
+Capital Pulse Laser Specialization II
+Capital Pulse Laser Specialization III
+Capital Pulse Laser Specialization IV
+Weapon Upgrades III
+Weapon Upgrades IV
+Advanced Weapon Upgrades I
+Advanced Weapon Upgrades II
+Advanced Weapon Upgrades III
+Advanced Weapon Upgrades IV
+Advanced Weapon Upgrades V
+Doomsday Operation I
+Doomsday Operation II
+Doomsday Operation III
+Doomsday Operation IV
+Doomsday Operation V
+Doomsday Rapid Firing I
+Doomsday Rapid Firing II
+Doomsday Rapid Firing III
+Doomsday Rapid Firing IV
+Rapid Firing IV
+Rapid Firing V
+Sharpshooter IV
+Sharpshooter V
+Surgical Strike II
+Surgical Strike III
+Surgical Strike IV
+Surgical Strike V
+Trajectory Analysis II
+Trajectory Analysis III
+Trajectory Analysis IV
+Trajectory Analysis V
+Spaceship Command IV
+Spaceship Command V
+Advanced Spaceship Command I
+Advanced Spaceship Command II
+Advanced Spaceship Command III
+Advanced Spaceship Command IV
+Advanced Spaceship Command V
+Capital Ships I
+Capital Ships II
+Capital Ships III
+Capital Ships IV
+Capital Ships V
+Amarr Frigate I
+Amarr Frigate II
+Amarr Frigate III
+Amarr Destroyer I
+Amarr Destroyer II
+Amarr Destroyer III
+Amarr Cruiser I
+Amarr Cruiser II
+Amarr Cruiser III
+Amarr Battlecruiser I
+Amarr Battlecruiser II
+Amarr Battlecruiser III
+Amarr Battleship I
+Amarr Battleship II
+Amarr Battleship III
+Amarr Titan I
+Amarr Titan II
+Amarr Titan III
+Amarr Titan IV
+Amarr Titan V
+Weapon Upgrades V

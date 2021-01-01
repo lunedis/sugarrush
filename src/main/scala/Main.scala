@@ -33,8 +33,8 @@ object Main extends IOApp {
   val romans = Map[String, Int]("I" -> 1, "II" -> 2, "III" -> 3, "IV" -> 4, "V" -> 5)
 
   override def run(args: List[String]): IO[ExitCode] = {
-    val EXTRACTOR = 371000000
-    val INJECTOR = 714000000
+    val EXTRACTOR = 355000000
+    val INJECTOR = 830000000
 
     val io = for {
       input <- readInput
